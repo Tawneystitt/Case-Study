@@ -104,7 +104,7 @@ the right direction. The recovery efforts he made were noticed, and respected. G
 ultimately brought IBM out of its hardship, into a better future for everyone involved in the IBM
 corporation.
 
-  br></br>
+  <br></br>
 Work Cited
 Baker, Colin. “How IBM Crashed, Then Rebooted with a $24 Billion Comeback.” Leaders.Com, 15 May
 2023, leaders.com/articles/business/ibm-history/#:~:text=IBM’s%20machines%20were%20of
